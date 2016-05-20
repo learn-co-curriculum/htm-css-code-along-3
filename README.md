@@ -8,6 +8,7 @@ In this code along exercise we will be adding style to our pages using external 
 2. Clone your fork.
 3. cd into the folder for this lab.
 4. Code along with the included video below.
+(The coding along will assume certain flexibility on your part. Instead of the 'exceptional realty' use the cloned lab, add the video folder (from previos lesson) and add the video files there.)
 
 ## Code Along Exercise 3 ~ 38min
 
